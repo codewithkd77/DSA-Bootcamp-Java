@@ -1,6 +1,8 @@
 package com.kunal;
 // https://leetcode.com/problems/missing-number/
 // Amazon Question
+
+//problem no.2
 class MissingNumber {
 
     public static void main(String[] args) {
